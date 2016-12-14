@@ -9,3 +9,7 @@ struct student
 	    printf('age was validated');
 		return true
 }
+struct teacher
+{
+    char name[20];
+} 
