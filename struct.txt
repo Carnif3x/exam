@@ -5,4 +5,7 @@ struct student
 	    printf('name was validated');
 		return true
 	int age;
+	bool validation (* info)
+	    printf('age was validated');
+		return true
 }
