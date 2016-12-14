@@ -1,5 +1,8 @@
 struct student
 { 
     char name[20];
+	bool validation (* info)
+	    printf('name was validated');
+		return true
 	int age;
 }
